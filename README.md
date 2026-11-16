@@ -95,7 +95,7 @@ git clone https://github.com/Diganta-tech/AI_Assignment_DigantaManna.git
 cd AI_Assignment_DigantaManna
 ```
 
-**Step 3: Install the required dependencies**
+**Step 2: Install the required dependencies**
 
 ```bash
 pip install -r requirements.txt
