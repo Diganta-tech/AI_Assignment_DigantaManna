@@ -1,0 +1,201 @@
+ticket_id,ticket_description,category,priority,status
+T067,The application cannot process a request with an empty optional field.,Application Error,High,Closed
+T188,The system response is delayed whenever I open a customer profile.,Performance,High,Closed
+T102,Please provide a CSV export of all tickets assigned to my team.,Report,High,In Progress
+T194,The application becomes unresponsive when the activity history contains many entries.,Performance,Medium,In Progress
+T112,The PDF report is cutting off the final column on the right side.,Report,High,In Progress
+T122,I have moved to a new house and need to update my billing address.,Account Update,Medium,Open
+T014,The system keeps sending me back to the login page when I open a protected section.,Login Issue,Low,In Progress
+T003,"My account was locked after three failed login attempts, and I cannot unlock it.",Login Issue,Medium,Open
+T065,The form crashes when I paste text containing an ampersand.,Application Error,High,Open
+T045,The app crashes after I upload a document larger than a few megabytes.,Application Error,Low,Open
+T137,My profile contains an outdated department name.,Account Update,Medium,In Progress
+T171,The dashboard charts take too long to render for a large date range.,Performance,Medium,In Progress
+T129,Please remove my old office address from the saved addresses list.,Account Update,Medium,Closed
+T077,A required field error is raised for a field that is already filled in.,Application Error,High,In Progress
+T159,I want to add my middle name to the profile information.,Account Update,Medium,In Progress
+T168,Saving a form takes around 20 seconds even when it contains only a few fields.,Performance,Medium,Open
+T046,Clicking the Submit button creates an error page and loses the information I entered.,Application Error,Medium,In Progress
+T131,Can you update the GST number registered against our company account?,Account Update,Medium,Closed
+T031,I cannot complete login because the authenticator app codes are always rejected.,Login Issue,Low,Closed
+T004,The one-time password for signing in never arrives on my registered mobile number.,Login Issue,Medium,Open
+T160,Can you change the billing address without changing the delivery address?,Account Update,High,Closed
+T016,The single sign-on option returns an authentication error for my work account.,Login Issue,Low,Open
+T043,The page displays a Python traceback instead of the confirmation message.,Application Error,Medium,Open
+T127,The date of birth on my profile is incorrect and needs correction.,Account Update,Low,In Progress
+T187,The notification count updates only after waiting for several seconds.,Performance,High,Open
+T163,The application becomes sluggish when several users work at the same time.,Performance,High,Closed
+T048,An unexpected null value error appears while viewing an employee profile.,Application Error,Low,Closed
+T111,Please generate a report listing customers with incomplete profile information.,Report,Medium,Open
+T006,The password reset link in the email opens an expired page.,Login Issue,Low,Closed
+T195,Loading the calendar view takes more than 30 seconds.,Performance,Medium,In Progress
+T038,I get a 401 authentication response whenever I try to open my account.,Login Issue,Medium,Closed
+T123,My phone number has changed; please replace the old number on my account.,Account Update,High,Open
+T013,"I can access other websites, but this portal will not accept my password.",Login Issue,Low,In Progress
+T037,The login page works in private browsing but fails in my normal browser session.,Login Issue,High,Closed
+T154,Could you update the shipping address for future orders?,Account Update,Medium,Closed
+T070,The page returns a 403 error when I try to download an attachment I own.,Application Error,High,Closed
+T062,The application fails during startup after the latest deployment.,Application Error,Medium,In Progress
+T196,The system is slow when multiple reports are generated simultaneously.,Performance,Low,Open
+T033,A blank error message appears after I enter my username and password.,Login Issue,Low,Closed
+T173,Scrolling through the transaction table is choppy and unresponsive.,Performance,Low,Open
+T172,The application is slow only when accessed through our office network.,Performance,Low,In Progress
+T061,The file preview feature displays an error instead of opening the PDF.,Application Error,High,In Progress
+T011,My username is not recognized even though it appears correctly in my welcome email.,Login Issue,Low,In Progress
+T145,My profile picture is outdated; I would like to upload a new one.,Account Update,High,Open
+T161,The dashboard takes nearly a minute to load after I sign in.,Performance,Low,Closed
+T053,A validation error appears even when all required form fields are completed.,Application Error,Medium,Closed
+T126,Please change my preferred contact method from phone to email.,Account Update,Medium,In Progress
+T107,"The report should show invoice number, customer name, amount, and payment status.",Report,Low,Open
+T074,The app displays raw HTML tags in the success notification after saving.,Application Error,Medium,In Progress
+T114,I need a report showing tickets that were reopened after being closed.,Report,Medium,Open
+T106,I want to see how many users were active on the platform each day.,Report,Medium,Open
+T096,I need the top 20 products ranked by total sales value.,Report,Medium,Open
+T104,Can you generate a report showing average resolution time by priority?,Report,Medium,In Progress
+T146,Can you change the account's preferred time zone to India Standard Time?,Account Update,High,Closed
+T044,I receive a 500 error when opening the customer details screen.,Application Error,Low,Closed
+T001,"I enter the correct password, but the portal keeps saying my credentials are invalid.",Login Issue,Medium,Open
+T162,Searching for a customer is extremely slow when the database has many records.,Performance,Medium,In Progress
+T193,The API response time has increased noticeably since yesterday.,Performance,Low,Open
+T017,I receive a message saying my account is inactive when I try to sign in.,Login Issue,Low,Open
+T081,Please create a monthly sales report for the western region.,Report,Medium,In Progress
+T103,I need a year-to-date comparison of sales across all product categories.,Report,Medium,Open
+T039,The sign-in process freezes after I enter the verification code.,Login Issue,High,Closed
+T157,The account is still linked to my previous organization and needs a company update.,Account Update,Medium,Closed
+T177,Filtering a large customer list causes the page to hang.,Performance,Medium,Closed
+T136,Please update the billing contact to our new accounts manager.,Account Update,Low,Closed
+T079,The app cannot open a record containing an apostrophe in its name.,Application Error,Medium,Closed
+T116,Can you provide a summary of website errors grouped by error code?,Report,High,Open
+T020,The login page reports too many attempts even though I have only tried once today.,Login Issue,Medium,Open
+T015,I changed my password yesterday and now none of my devices can sign in.,Login Issue,Medium,Closed
+T178,The mobile app takes a long time to open after the latest update.,Performance,High,In Progress
+T147,The spelling of my first name is wrong in the account settings.,Account Update,Medium,Closed
+T180,The search results appear several seconds after I submit a query.,Performance,Low,Closed
+T066,An unhandled exception appears when I switch from one project to another.,Application Error,High,Open
+T085,Please generate a list of customers who placed orders more than five times.,Report,Medium,Open
+T166,Typing in the customer search box causes noticeable delays.,Performance,High,Open
+T047,The application shows a database error when I try to add a new order.,Application Error,Medium,Closed
+T105,Please send me the list of transactions that were refunded this month.,Report,Medium,Open
+T080,An unexpected error occurs when I try to attach a second file to the same ticket.,Application Error,High,Closed
+T055,The update operation fails with a foreign key constraint message.,Application Error,Low,Open
+T197,The product listing page takes too long to display its images.,Performance,Medium,In Progress
+T086,I need a PDF copy of the inventory report for the current month.,Report,Medium,Open
+T119,The report filter should include records assigned to a selected manager.,Report,Medium,Closed
+T110,I need the number of orders grouped by payment method.,Report,High,Open
+T134,The alternate email address on my account is no longer active.,Account Update,Medium,Closed
+T143,Please update our registered business address after the office relocation.,Account Update,Medium,In Progress
+T034,I was logged out during a task and cannot authenticate again.,Login Issue,Medium,Closed
+T019,I am not receiving the email verification code required to access my account.,Login Issue,High,Closed
+T141,I want to change the notification email for monthly statements.,Account Update,High,Open
+T124,Could you correct the spelling of my surname in the profile details?,Account Update,Low,Closed
+T176,The system slows down significantly when I upload multiple documents together.,Performance,Low,In Progress
+T064,"The save operation reports success, but reopening the record causes an error.",Application Error,Low,Closed
+T084,The finance team needs a breakdown of expenses by department for October.,Report,High,In Progress
+T149,I need to add a new branch address to our organization profile.,Account Update,Medium,Closed
+T101,The downloaded report is missing the department column.,Report,Medium,Open
+T156,I need to change my recovery email address after losing access to the old one.,Account Update,High,In Progress
+T073,The search request fails with a malformed query error.,Application Error,Low,In Progress
+T028,The login page does not accept the special character in my password.,Login Issue,Low,Closed
+T185,Downloading attachments is much slower than downloading files from other sites.,Performance,Medium,Closed
+T113,Could you add a chart of monthly revenue to the finance report?,Report,High,Open
+T052,The checkout page returns an internal server error after I confirm the address.,Application Error,Medium,In Progress
+T175,Generating a PDF invoice takes longer than two minutes.,Performance,Medium,Open
+T005,"I can sign in on my phone, but the same username and password fail on my laptop.",Login Issue,High,In Progress
+T030,The system says no user exists for my registered email address.,Login Issue,Medium,Closed
+T184,The page becomes slow when more than 100 rows are displayed in the table.,Performance,High,Open
+T100,Could you add a date range filter to the order history report?,Report,Low,Closed
+T099,I need a report of employees whose leave balance is below five days.,Report,Medium,In Progress
+T132,I need to change the name displayed on invoices issued to me.,Account Update,High,Open
+T125,I need to update the company name shown on our business account.,Account Update,Medium,Open
+T199,Opening a large customer profile causes a delay before the details appear.,Performance,High,In Progress
+T135,I would like to change the language preference for account notifications.,Account Update,High,Open
+T179,I experience delays when switching between different project workspaces.,Performance,High,Open
+T121,Please change the email address associated with my customer profile.,Account Update,Low,In Progress
+T035,The application asks me to verify my email every time I sign in.,Login Issue,Medium,Closed
+T049,The browser console reports a JavaScript error when I open the settings page.,Application Error,Medium,Closed
+T170,Loading the inventory list causes the browser tab to use excessive memory.,Performance,High,Open
+T139,Could you add a tax identification number to my billing profile?,Account Update,Medium,Closed
+T150,My communication preferences should be changed to disable SMS alerts.,Account Update,High,Closed
+T133,Please update my emergency contact details in the employee profile.,Account Update,Medium,Open
+T128,I want to add a second contact person to our organization account.,Account Update,High,In Progress
+T022,I cannot log in after enabling two-factor authentication on my account.,Login Issue,Medium,Open
+T082,I need a report showing the number of support tickets resolved last week.,Report,Medium,In Progress
+T078,The notification panel fails to load and shows an API exception.,Application Error,Low,Closed
+T010,I am unable to access the portal because the verification code is rejected.,Login Issue,Medium,Closed
+T083,Can you export the employee attendance summary for the previous quarter?,Report,Low,In Progress
+T165,The report download runs for several minutes before producing a file.,Performance,Medium,Closed
+T120,Could you generate a consolidated report for all branches in one file?,Report,Medium,Open
+T090,Can the system produce a summary of open and closed cases by support agent?,Report,High,Closed
+T069,A database connection error appears whenever I open the billing module.,Application Error,Medium,In Progress
+T054,The app crashes when I try to delete an attachment from a support case.,Application Error,Medium,In Progress
+T091,Please include product-wise quantities in the latest stock movement report.,Report,High,Closed
+T095,Please generate an audit report showing changes made to customer records.,Report,High,Closed
+T042,A server error appears when I submit the registration form.,Application Error,Medium,Closed
+T094,The regional manager requested a branch-wise performance summary.,Report,Medium,Open
+T117,I need a downloadable report of all pending purchase requests.,Report,High,Open
+T200,The website times out when I try to load a page containing a large data table.,Performance,Medium,Closed
+T158,Please update the contact details for the person responsible for payments.,Account Update,Low,Open
+T026,The reset password form says the token is invalid when I submit a new password.,Login Issue,High,Closed
+T181,The application consumes too much CPU while the dashboard is idle.,Performance,High,In Progress
+T148,Please update the invoice recipient's email address.,Account Update,High,In Progress
+T075,I get an error while generating an invoice for an order with a discount.,Application Error,High,In Progress
+T059,The application throws an exception when I select a date near the end of the month.,Application Error,Medium,Open
+T153,I want to change the display name shown beside my user account.,Account Update,Medium,Closed
+T018,"The captcha verification succeeds, but the login attempt still fails.",Login Issue,High,Closed
+T050,The application stops responding after I select a file for upload.,Application Error,High,Open
+T093,Could you schedule a weekly report of failed payment transactions?,Report,High,Closed
+T076,The application crashes when I click the browser Back button during editing.,Application Error,Medium,In Progress
+T142,The contact person's designation has changed and should be updated.,Account Update,High,Open
+T021,My saved browser password works elsewhere but is rejected by this application.,Login Issue,Low,In Progress
+T097,Can you export project completion status for all active projects?,Report,Medium,In Progress
+T032,The remember-me option is not keeping me signed in between visits.,Login Issue,Medium,Closed
+T138,I need to replace the bank account details used for reimbursements.,Account Update,Medium,Closed
+T118,Please create a report comparing planned project hours with actual hours.,Report,High,In Progress
+T012,The login screen stays blank after I submit my credentials.,Login Issue,High,In Progress
+T068,The profile image upload fails with an unsupported media type error.,Application Error,Low,Closed
+T089,I want to download the list of overdue invoices in Excel format.,Report,Medium,Closed
+T092,I need a report of new user registrations between January and March.,Report,High,Open
+T025,I get an access denied message on the sign-in page despite using my company account.,Login Issue,High,In Progress
+T098,Please prepare a customer feedback summary grouped by rating.,Report,Medium,In Progress
+T183,The checkout process pauses for a long time before confirming payment.,Performance,High,Open
+T191,The page takes a long time to display results after applying multiple filters.,Performance,Medium,Closed
+T087,Could you provide the daily website traffic figures for the last 30 days?,Report,Low,Open
+T182,Loading the analytics page causes the browser to become unresponsive.,Performance,Medium,Open
+T040,I accidentally disabled my account and need help restoring login access.,Login Issue,Medium,In Progress
+T169,The website response time becomes very slow during business hours.,Performance,Medium,In Progress
+T088,Please prepare a report comparing this quarter's revenue with the previous quarter.,Report,Low,Closed
+T186,The application takes a long time to process bulk updates.,Performance,Medium,Closed
+T041,The application closes unexpectedly whenever I try to save a new customer record.,Application Error,High,Open
+T002,"After I click Sign In, the page refreshes and asks me to log in again.",Login Issue,High,In Progress
+T072,A migration-related error prevents the reports module from opening.,Application Error,Medium,Closed
+T151,Please update the authorized signatory details for our company.,Account Update,Medium,In Progress
+T115,Please export the list of products with no sales in the last 90 days.,Report,High,Closed
+T057,The API returns a 404 response for a page that was working yesterday.,Application Error,Medium,Closed
+T108,Please create a summary of inventory items that are below their reorder level.,Report,High,Closed
+T192,Switching tabs in the application causes a short freeze each time.,Performance,Medium,Open
+T167,The mobile application freezes briefly whenever I switch between screens.,Performance,Medium,In Progress
+T051,"I get an error saying the requested record does not exist, although it is listed in search.",Application Error,Medium,Closed
+T144,I need to remove a former employee from the account contact list.,Account Update,High,Closed
+T198,The application has become slower after we added several thousand records.,Performance,High,Closed
+T155,Please correct the company registration number in our account information.,Account Update,Medium,Closed
+T130,My account profile still shows my previous job title.,Account Update,Medium,Closed
+T060,A duplicate key error appears when I create a new department.,Application Error,Low,In Progress
+T056,A white screen appears after the application finishes loading the dashboard.,Application Error,High,Open
+T024,The password field clears itself before I can submit the login form.,Login Issue,Medium,Open
+T008,I no longer have access to the email address used for my account login.,Login Issue,Medium,Open
+T009,The Sign In button does nothing when I click it on the login screen.,Login Issue,High,Open
+T109,Can I get a report of applications submitted during the last admission cycle?,Report,High,In Progress
+T152,The website has my old mobile number saved in the personal information section.,Account Update,High,In Progress
+T023,The application signs me out whenever I open a new browser tab.,Login Issue,High,Open
+T140,Please correct the postal code in my saved delivery address.,Account Update,High,Open
+T174,"The first page loads quickly, but navigating to other sections is very slow.",Performance,Low,Closed
+T027,My account works in the mobile app but not in the desktop browser.,Login Issue,Low,Open
+T189,The website performs poorly on older computers even with a stable connection.,Performance,Medium,Closed
+T036,My temporary password from support is reported as expired on first use.,Login Issue,Medium,Open
+T058,I see a serialization error when exporting a customer profile.,Application Error,Medium,Open
+T063,I receive an invalid JSON response when the page requests order information.,Application Error,High,In Progress
+T071,The application produces a stack trace after I select multiple checkboxes.,Application Error,Medium,In Progress
+T190,The export process slows down the rest of the application.,Performance,Medium,Closed
+T007,The application says my session has expired immediately after I log in.,Login Issue,High,Closed
+T029,I am stuck in a loop between the identity provider and the application login page.,Login Issue,Low,Open
+T164,Opening the order history page takes much longer than it used to.,Performance,Medium,Closed
